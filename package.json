@@ -1,0 +1,19 @@
+{
+  "name": "who_dis_chat_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaylorAndStubbs/WhoDisChatServer.git"
+  },
+  "author": "Taylor Stubbs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaylorAndStubbs/WhoDisChatServer/issues"
+  },
+  "homepage": "https://github.com/TaylorAndStubbs/WhoDisChatServer#readme"
+}
