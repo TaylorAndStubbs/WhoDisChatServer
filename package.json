@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TaylorAndStubbs/WhoDisChatServer/issues"
   },
-  "homepage": "https://github.com/TaylorAndStubbs/WhoDisChatServer#readme"
+  "homepage": "https://github.com/TaylorAndStubbs/WhoDisChatServer#readme",
+  "dependencies": {
+    "firebase": "^3.7.0"
+  }
 }
